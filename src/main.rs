@@ -1,5 +1,5 @@
 fn incorrectanswer() {
-  const MSG: &str = "That is incorrect."; // It tells that the number is incorrect
+  const MSG: &str = "That is incorrect."; // It tells you that the number is incorrect
 
   println!("{}", MSG);
 }
